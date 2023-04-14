@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https://github.com/NeslynChellaiah/users-crud-with-mockapi-react/static/css/main.0ffe24eb.css",
+    "main.js": "/https://github.com/NeslynChellaiah/users-crud-with-mockapi-react/static/js/main.6e6f6ff1.js",
+    "static/js/787.9d5d05fe.chunk.js": "/https://github.com/NeslynChellaiah/users-crud-with-mockapi-react/static/js/787.9d5d05fe.chunk.js",
+    "index.html": "/https://github.com/NeslynChellaiah/users-crud-with-mockapi-react/index.html",
+    "main.0ffe24eb.css.map": "/https://github.com/NeslynChellaiah/users-crud-with-mockapi-react/static/css/main.0ffe24eb.css.map",
+    "main.6e6f6ff1.js.map": "/https://github.com/NeslynChellaiah/users-crud-with-mockapi-react/static/js/main.6e6f6ff1.js.map",
+    "787.9d5d05fe.chunk.js.map": "/https://github.com/NeslynChellaiah/users-crud-with-mockapi-react/static/js/787.9d5d05fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ffe24eb.css",
+    "static/js/main.6e6f6ff1.js"
+  ]
+}
